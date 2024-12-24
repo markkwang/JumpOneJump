@@ -8,6 +8,8 @@ pip install -r requirements.txt
 
 ### Configuration
 
+Create a .env file
+
 ```
 SCREENSHOT_X=1510
 SCREENSHOT_Y=69
